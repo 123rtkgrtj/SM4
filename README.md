@@ -14,7 +14,7 @@
     
 运行截图:
 
-    ![image](https://user-images.githubusercontent.com/110152761/182007108-209c5851-b820-45c8-837c-cc88ead76af3.png)
+   ![image](https://user-images.githubusercontent.com/110152761/182007252-5843d650-6f41-4407-b737-0d547746600f.png)
 
     
 
